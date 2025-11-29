@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+numpy
+torch
+torchvision
+transformers
+accelerate
+python-telegram-bot
+pillow
+requests
+scipy
+
